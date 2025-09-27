@@ -1,32 +1,72 @@
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-shafiullah-457b9b25b) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedshafiullah2004@gmail.com)
+<h1 align="center">Hi 👋, I'm Syed Shafiullah</h1>
+<h3 align="center">A passionate software developer</h3>
 
-# 💻 Tech Stack
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Syedshafiullah160904&label=Profile%20views&color=0e75b6&style=flat" alt="Syedshafiullah160904" /> 
+</p>
 
-# 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syedshafiullah160904&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Syedshafiullah160904&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syedshafiullah160904&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Syedshafiullah160904" alt="Syedshafiullah160904" />
+  </a> 
+</p>
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Syedshafiullah160904&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/syed-shafiullah-457b9b25b" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-shafiullah-457b9b25b" height="30" width="40" />
+  </a>
+  <a href="mailto:syedshafiullah2004@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="syedshafiullah2004@gmail.com" height="30" width="40" />
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.adobe.com" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Adobe_Corporate_Logo.png" alt="adobe" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.canva.com" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canva_Logo.svg" alt="canva" width="40" height="40"/> 
+  </a> 
+</p>
 
-### 🔝 Top Contributed Repositories
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Syedshafiullah160904&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Syedshafiullah160904&show_icons=true&locale=en&layout=compact" alt="Syedshafiullah160904" />
+</p>
 
----
-[![Profile Visits](https://visitcount.itsvg.in/api?id=Syedshafiullah160904&icon=0&color=0)](https://visitcount.itsvg.in)
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Syedshafiullah160904&show_icons=true&locale=en" alt="Syedshafiullah160904" />
+</p>
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Syedshafiullah160904&" alt="Syedshafiullah160904" />
+</p>
+
+<h3 align="left">Random Dev Quote:</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+<h3 align="left">Top Contributed Repositories:</h3>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Syedshafiullah160904&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
+</p>
